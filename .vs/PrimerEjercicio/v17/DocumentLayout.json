@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\PrimerEjercicio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A607410E-CF70-4587-A271-F53E0FA86D8D}|PrimerEjercicio\\PrimerEjercicio.csproj|c:\\users\\asus\\source\\repos\\primerejercicio\\primerejercicio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A607410E-CF70-4587-A271-F53E0FA86D8D}|PrimerEjercicio\\PrimerEjercicio.csproj|solutionrelative:primerejercicio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A607410E-CF70-4587-A271-F53E0FA86D8D}|PrimerEjercicio\\PrimerEjercicio.csproj|c:\\users\\asus\\source\\repos\\primerejercicio\\primerejercicio\\form_e10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A607410E-CF70-4587-A271-F53E0FA86D8D}|PrimerEjercicio\\PrimerEjercicio.csproj|solutionrelative:primerejercicio\\form_e10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A607410E-CF70-4587-A271-F53E0FA86D8D}|PrimerEjercicio\\PrimerEjercicio.csproj|c:\\users\\asus\\source\\repos\\primerejercicio\\primerejercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A607410E-CF70-4587-A271-F53E0FA86D8D}|PrimerEjercicio\\PrimerEjercicio.csproj|solutionrelative:primerejercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A607410E-CF70-4587-A271-F53E0FA86D8D}|PrimerEjercicio\\PrimerEjercicio.csproj|c:\\users\\asus\\source\\repos\\primerejercicio\\primerejercicio\\form_e10.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A607410E-CF70-4587-A271-F53E0FA86D8D}|PrimerEjercicio\\PrimerEjercicio.csproj|solutionrelative:primerejercicio\\form_e10.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A607410E-CF70-4587-A271-F53E0FA86D8D}|PrimerEjercicio\\PrimerEjercicio.csproj|c:\\users\\asus\\source\\repos\\primerejercicio\\primerejercicio\\form_e10.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A607410E-CF70-4587-A271-F53E0FA86D8D}|PrimerEjercicio\\PrimerEjercicio.csproj|solutionrelative:primerejercicio\\form_e10.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A607410E-CF70-4587-A271-F53E0FA86D8D}|PrimerEjercicio\\PrimerEjercicio.csproj|c:\\users\\asus\\source\\repos\\primerejercicio\\primerejercicio\\form_e10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A607410E-CF70-4587-A271-F53E0FA86D8D}|PrimerEjercicio\\PrimerEjercicio.csproj|solutionrelative:primerejercicio\\form_e10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +35,65 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PrimerEjercicio\\PrimerEjercicio\\Form1.cs",
-              "RelativeDocumentMoniker": "PrimerEjercicio\\Form1.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PrimerEjercicio\\PrimerEjercicio\\Form1.cs [Design]",
-              "RelativeToolTip": "PrimerEjercicio\\Form1.cs [Design]",
+              "Title": "Form_E10.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PrimerEjercicio\\PrimerEjercicio\\Form_E10.cs",
+              "RelativeDocumentMoniker": "PrimerEjercicio\\Form_E10.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PrimerEjercicio\\PrimerEjercicio\\Form_E10.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "PrimerEjercicio\\Form_E10.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T03:33:36.118Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PrimerEjercicio\\PrimerEjercicio\\Program.cs",
+              "RelativeDocumentMoniker": "PrimerEjercicio\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PrimerEjercicio\\PrimerEjercicio\\Program.cs*",
+              "RelativeToolTip": "PrimerEjercicio\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:31:13.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_E10.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PrimerEjercicio\\PrimerEjercicio\\Form_E10.Designer.cs",
+              "RelativeDocumentMoniker": "PrimerEjercicio\\Form_E10.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PrimerEjercicio\\PrimerEjercicio\\Form_E10.Designer.cs*",
+              "RelativeToolTip": "PrimerEjercicio\\Form_E10.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:30:38.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form_E10.resx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PrimerEjercicio\\PrimerEjercicio\\Form_E10.resx",
+              "RelativeDocumentMoniker": "PrimerEjercicio\\Form_E10.resx",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PrimerEjercicio\\PrimerEjercicio\\Form_E10.resx*",
+              "RelativeToolTip": "PrimerEjercicio\\Form_E10.resx*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-10T04:30:47.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form_E10.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PrimerEjercicio\\PrimerEjercicio\\Form_E10.cs",
+              "RelativeDocumentMoniker": "PrimerEjercicio\\Form_E10.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PrimerEjercicio\\PrimerEjercicio\\Form_E10.cs*",
+              "RelativeToolTip": "PrimerEjercicio\\Form_E10.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAIA9wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:10:23.621Z",
+              "EditorCaption": ""
             }
           ]
         }
